@@ -23,7 +23,7 @@ ITEM_PIPELINES = {
 }
 #---mysql config---
 
-HOST, DB, USER, PWD = '127.0.0.1', 'cosme', 'root', 'onestar'
+HOST, DB, USER, PWD = '127.0.0.1', 'cosme', 'root', '123456'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 #USER_AGENT = 'cosme (+http://www.yourdomain.com)'

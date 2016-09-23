@@ -1,2 +1,2 @@
 ### a scrapy demo
-#### 利用scrapy 将download web 上的信息
+#### 利用scrapy 将download web 上的信息 download 下来
